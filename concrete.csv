@@ -1,0 +1,32 @@
+Strength1,Difference,Brand,Additive,Humidity,Strength2,SetTime
+29.2,0.4,Consolidated,reinforced,44.6,29.6,31
+26.3,-0.3,Consolidated,reinforced,50.7,26,28
+25.3,0.4,Consolidated,reinforced,46.4,25.7,29
+25.3,-0.3,Consolidated,reinforced,52.6,25,30
+22.7,-0.3,Consolidated,reinforced,51.8,22.4,29
+24.1,-0.2,Consolidated,standard,47,23.9,25
+23.8,0.4,Consolidated,standard,47.7,24.2,24
+22.4,0.3,Consolidated,standard,54.3,22.7,24
+22.1,-0.3,Consolidated,standard,59.9,21.8,23
+20.3,0.4,Consolidated,standard,60,20.7,23
+30.2,-0.3,EZ Mix,reinforced,42.4,29.9,20
+28.2,0.3,EZ Mix,reinforced,45.2,28.5,20
+26.6,-0.2,EZ Mix,reinforced,50.7,26.4,21
+25.6,0.4,EZ Mix,reinforced,48,26,22
+25.5,-0.3,EZ Mix,reinforced,43,25.2,20
+27.9,-0.2,EZ Mix,standard,40.7,27.7,20
+27.9,0.4,EZ Mix,standard,47.2,28.3,21
+24.9,0.3,EZ Mix,standard,50.6,25.2,20
+21.3,0.3,EZ Mix,standard,58,21.6,21
+19.7,-0.2,EZ Mix,standard,60.2,19.5,21
+32.5,-0.2,Graystone,reinforced,43,32.3,36
+31.5,-0.5,Graystone,reinforced,44.1,31,35
+29.9,1.4,Graystone,reinforced,50,31.3,36
+29.7,0.3,Graystone,reinforced,46.7,30,37
+29.5,-0.2,Graystone,reinforced,53,29.3,37
+29.7,-0.2,Graystone,standard,52.5,29.5,25
+26.4,0.3,Graystone,standard,48.9,26.7,27
+24.6,-0.3,Graystone,standard,53.1,24.3,24
+24.4,0.3,Graystone,standard,55.9,24.7,25
+21.2,0.3,Graystone,standard,59.9,20.9,25
+,,,,,,
